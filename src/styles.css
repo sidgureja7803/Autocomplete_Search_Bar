@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.search-input {
+  width: 500px;
+  padding: 10px;
+}
